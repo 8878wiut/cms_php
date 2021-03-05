@@ -17,6 +17,10 @@
     </div>
 
     <!-- Login -->
+
+    <!-- login: uturakulov
+    password: test -->
+
     <div class="well">
         <h4>Login</h4>
         <form action="includes/login.php" method="post">
